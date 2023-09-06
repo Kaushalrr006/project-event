@@ -10,12 +10,16 @@ Getting Started
 To run the application locally, you will need to have the following installed:
 
 Node.js
+
 MongoDB
+
 npm
+
 
 Once you have the prerequisites installed, you can run the following commands to install the dependencies and start the application:
 
 npm install nodejs
+
 node server.js
 
 The application will be available at .
